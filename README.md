@@ -55,5 +55,3 @@
 * **AhíViene**
     * -Aplicación web full-stack para el seguimiento de la gestión de residuos en San Pedro Sula. Proyecto de 48 horas desarrollado con React, Tailwind y Supabase durante el Hackathon Coding Latam 2026 (organizado por Puzzle).
 
-- 🗳️ **Tú También Eres Honduras (1er Lugar):** Plataforma web enfocada en transparencia electoral y educación cívica. Desarrollada en el hackathon de UNITEC SPS, patrocinado por Sustenta Honduras.
-- ♻️ **AhíViene:** Aplicación web full-stack para el seguimiento de la gestión de residuos en San Pedro Sula. Proyecto de 48 horas desarrollado con React, Tailwind y Supabase durante el Hackathon Coding Latam 2026 (organizado por Puzzle).
