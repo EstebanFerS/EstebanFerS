@@ -42,22 +42,18 @@
 
 ### 🚀 Repositorios y Proyectos Destacados
 
-<p align="center">
-  <a href="https://github.com/EstebanFerS/Vampire-Wargame-Progra2">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=EstebanFerS&repo=Vampire-Wargame-Progra2&theme=radium&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&locale=es" width="48%" />
-  </a>
-  <a href="https://github.com/EstebanFerS/Vera">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=EstebanFerS&repo=Vera&theme=radium&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&locale=es" width="48%" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/WeaselSSH/Minesweeper">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=WeaselSSH&repo=Minesweeper&theme=radium&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&locale=es" width="48%" />
-  </a>
-  <a href="https://github.com/DJCC006/Mini_Windows">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=DJCC006&repo=Mini_Windows&theme=radium&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&locale=es" width="48%" />
-  </a>
-</p>
+* [MINI WINDOWS & INSTAGRAM](https://github.com/DJCC006/Mini_Windows)
+    * -Proyecto universitario en el cual se realizó un sistema operativo con entorno gráfico. Incluye explorador de archivos, editor de texto, consola CMD, visualizador de imágenes, reproductor de música, y una réplica de Instagram con funciones similares a la aplicación original.
+* [Buscaminas (Minesweeper)](https://github.com/WeaselSSH/Minesweeper)
+    * -Proyecto universitario en el cual se replica el clásico juego de buscaminas utilizando programación orientada a objetos. Destaca el uso de algoritmos de recursión y una gestión rigurosa de memoria.
+* [Vampire-Wargame-Progra2](https://github.com/EstebanFerS/Vampire-Wargame-Progra2)
+    * -Proyecto universitario de la clase de Programación 2 en el cual se implementa la lógica de un juego de guerra y estrategia.
+* [Vera](https://github.com/EstebanFerS/Vera)
+    * -Repositorio principal del proyecto de software Vera enfocado en el desarrollo de aplicaciones prácticas.
+* **Tú También Eres Honduras (1er Lugar)**
+    * -Plataforma web enfocada en transparencia electoral y educación cívica. Desarrollada en el hackathon de UNITEC SPS, patrocinado por Sustenta Honduras.
+* **AhíViene**
+    * -Aplicación web full-stack para el seguimiento de la gestión de residuos en San Pedro Sula. Proyecto de 48 horas desarrollado con React, Tailwind y Supabase durante el Hackathon Coding Latam 2026 (organizado por Puzzle).
 
 - 🗳️ **Tú También Eres Honduras (1er Lugar):** Plataforma web enfocada en transparencia electoral y educación cívica. Desarrollada en el hackathon de UNITEC SPS, patrocinado por Sustenta Honduras.
 - ♻️ **AhíViene:** Aplicación web full-stack para el seguimiento de la gestión de residuos en San Pedro Sula. Proyecto de 48 horas desarrollado con React, Tailwind y Supabase durante el Hackathon Coding Latam 2026 (organizado por Puzzle).
